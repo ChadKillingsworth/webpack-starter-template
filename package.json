@@ -1,0 +1,21 @@
+{
+  "name": "webpack-starter-template",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissouriState-CSC515-Spring2018/webpack-starter-template.git"
+  },
+  "author": "Chad Killingsworth <chadkillingsworth@missouristate.edu>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MissouriState-CSC515-Spring2018/webpack-starter-template/issues"
+  },
+  "homepage": "https://github.com/MissouriState-CSC515-Spring2018/webpack-starter-template#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
